@@ -15,7 +15,8 @@ Une application React qui permet de consulter les conditions météorologiques a
 ---
 
 ## Capture d'écran
-<img src="react-crash-2024\src\assets\screenshot-app.png" alt="Weather App Screenshot" width="500" />
+<img src="./assets/screenshot-app.png" alt="Aperçu de l'application" width="600" />
+
 
 ---
 

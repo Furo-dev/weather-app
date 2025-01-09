@@ -1,8 +1,31 @@
-# React + Vite
+# Weather App 🌦️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Une application React qui permet de consulter les conditions météorologiques actuelles d'une ville grâce à l'API OpenWeather.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Fonctionnalités
+- 🔍 **Rechercher une ville** : Entrez le nom d'une ville pour obtenir les données météo.
+- 🌡️ **Affichage des informations météo** :
+  - Température actuelle.
+  - Description de la météo (ex. : ciel dégagé).
+  - Icône météo correspondante.
+- 🚨 **Gestion des erreurs** : Affiche un message si la ville n'est pas trouvée.
+
+---
+
+## Capture d'écran
+![Weather App Screenshot](./screenshot.png)
+
+---
+
+## Installation et exécution
+
+### Prérequis
+- Node.js version 14 ou supérieure.
+- Un compte sur [OpenWeatherMap](https://openweathermap.org/) pour obtenir une clé API.
+
+### Étapes
+1. Clonez ce dépôt sur votre machine locale :
+   ```bash
+   git clone https://github.com/tonpseudo/weather-app.git

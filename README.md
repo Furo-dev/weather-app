@@ -7,7 +7,7 @@ Une application React qui permet de consulter les conditions météorologiques a
 ## Fonctionnalités
 - 🔍 **Rechercher une ville** : Entrez le nom d'une ville pour obtenir les données météo.
 - 🌡️ **Affichage des informations météo** :
-  - Température actuelle.
+  - Température, humidité et vent actuelle.
   - Description de la météo (ex. : ciel dégagé).
   - Icône météo correspondante.
 - 🚨 **Gestion des erreurs** : Affiche un message si la ville n'est pas trouvée.

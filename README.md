@@ -15,7 +15,7 @@ Une application React qui permet de consulter les conditions météorologiques a
 ---
 
 ## Capture d'écran
-<img src="./assets/screenshot-app.png" alt="Aperçu de l'application" width="600" />
+<img src="https://github.com/Furo-dev/weather-app/blob/main/src/assets/screenshot-app.png" alt="Aperçu de l'application" width="600" />
 
 
 ---

@@ -1,7 +1,7 @@
 // Fonction qui permet de récupérer les données météo d'une ville donnée
 const liaisonAPI = async (ville) => {
   // Définit la fonction liaisonAPI avec la ville en paramètre
-  const apiKey = "aea53cead3cca4a87e48b97e4fef1e36";
+  const apiKey = "your api key";
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${ville}&appid=${apiKey}&units=metric`; // Définit l'URL de l'API météo
   try {
     // Gère les erreurs potentielles
